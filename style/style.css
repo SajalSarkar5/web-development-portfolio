@@ -8,6 +8,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+
 /* header part start */
 
 .header-area {
@@ -100,3 +101,86 @@ body {
 }
 
 /* header part end */
+
+.about-area {
+    background-color: #fff8f3;
+    margin: 100px 0px;
+    text-align: center;
+    padding: 130px;
+    border-radius: 10px;
+}
+
+main {
+    max-width: 1140px;
+    margin: 0px auto;
+}
+
+.about-area h3 {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.about-area p {
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 38px 0;
+}
+
+.about-address {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.about-address h6 {
+    color: #757575;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.about-address h4 {
+    color: #474747;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.icon-area {
+    margin-bottom: 100px;
+}
+
+.icon-area h3 {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.icon-area p {
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.skills-container {
+    display: flex;
+}
+
+.skill {
+
+}
+
+.box img {}
+
+.box h4 {}
+
+.box p {}
